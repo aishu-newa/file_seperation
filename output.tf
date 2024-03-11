@@ -1,3 +1,3 @@
-output "look at here" {
+output "look _at_here" {
     value = "place value"
 }
