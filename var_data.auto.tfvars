@@ -7,7 +7,7 @@ instance_type = "t2.micro"
 key_name = "terra"
 
 tags = {
-    name = motogb
-    Environment = dark
-    project = xyz
+    name = "motogb"
+    Environment = "dark"
+    project = "xyz"
 }
