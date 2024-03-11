@@ -1,4 +1,4 @@
-region ="us-east-1"
+region ="ap-southeast-1"
 
 ami ="ami-07d9b9ddc6cd8dd30"
 
